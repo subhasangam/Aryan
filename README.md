@@ -1,4 +1,4 @@
-PASSWORD STRENGTH CHECKER
+PASSWORD STRENGTH CHECKER -
 The Password Strength Checker project aims to develop a tool that evaluates the strength of a given password based on specific criteria, providing users with feedback on how to improve their password security.
 
 Key Features:
